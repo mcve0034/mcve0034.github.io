@@ -1,11 +1,16 @@
 body {
-  background-color:#ffffff ;
+	background-image: url("img folder/white-waves-pattern");
 }
 
 h1 {
   color: #000000;
   margin-left: 20px;
 }
+p {
+  text-align: left;
+  color: #000000;
+}
+
 	
 .logo {
 	float: left;
