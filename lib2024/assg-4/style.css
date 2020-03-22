@@ -1,7 +1,16 @@
-<style>
+<style type="text/css">
 	main {
 		background: url("img/white-waves.png");
 	}
+
+		.btn {
+			width: 90px;
+			padding: 10px;
+			margin: 15px;
+			background: #00ced1;
+			float: left;
+			border: 5px #00ced1;
+		}
 
 	.container 
 	{max-width: 960px;
