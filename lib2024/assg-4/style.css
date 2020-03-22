@@ -1,0 +1,29 @@
+	<style type="text/css"></style>
+	main {
+		background: url("img/main-bg.png");
+	}
+
+	.container 
+	{max-width: 960px;
+	}
+body {
+  background-color: #90EE90;
+}
+
+h1 {
+  color: #000000;
+  margin-left: 20px
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.btn {
+  border: 14px 28px;
+  background-color: #00ced1;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
