@@ -1,7 +1,12 @@
+body {
+  background-color:#ffffff ;
+}
 
-	main {
-		background: url("img/white-waves.png");
-	}
+h1 {
+  color: #000000;
+  margin-left: 20px;
+}
+	
 .logo {
 	float: left;
 	width:100px;
