@@ -2,7 +2,13 @@
 	main {
 		background: url("img/white-waves.png");
 	}
-
+.logo {
+	float: left;
+	width:100px;
+	padding: 15px;
+	box-sizing: border-box;
+	background: #1976D2;
+}
 		.box {
 			width: 90px;
 			padding: 10px;
