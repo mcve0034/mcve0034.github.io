@@ -1,55 +1,20 @@
-body {
-	background-image: url("img folder/white-waves-pattern");
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
 }
-
-h1 {
-  color: #000000;
-  margin-left: 20px;
-}
-p {
-  text-align: left;
-  color: #000000;
-}
-
-	
-.logo {
-	float: left;
-	width:100px;
-	padding: 15px;
-	box-sizing: border-box;
-	background: #1976D2;
-}
-		.box {
-			width: 90px;
-			padding: 10px;
-			margin: 15px;
-			background: #00ced1;
-			float: left;
-			border: 5px #00ced1;
-		}
-
-	.container 
-	{max-width: 960px;
-	}
-body {
-  background-color: #90EE90;
-}
-
-h1 {
-  color: #000000;
-  margin-left: 20px
-}
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-
-.btn {
-  border: 18px 34px;
-  background-color: #00ced1;
-  padding: 14px 28px;
-  font-size: 16px;
-  cursor: pointer;
-  display: inline-block;
-}
-</style>
