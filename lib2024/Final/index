@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+<head>
+	<title>Final</title>
+	<link rel="stylesheet" type="text/css" href="css folder/style.css">
+</head>
+<body>
+	<header class="site-header" id="site-header">
+		<div class="logo">My Logo</div>
+			<div id="container" class="container">
+
+		<header class="site-header">
+
+			<nav>
+				<ul>
+										<li>
+						<a href="index.html">Home</a>
+					</li>
+	<li>
+						<a href="about-us.html">About</a>
+					</li>
+					<li>
+						<a href="schedule.html">Schedule</a>
+					</li>
+					<li>
+						<a href="portfolio.html">Portfolio</a>
+					</li>
+					<li>
+						<a href="contact.html">Contact</a>
+					</li>
+				</ul>
+			</nav>
+		</header>
+	<main id="main" class="main">
+			
+			<section class="content">
+
+				<h2>About</h2>
+				<p >
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eu sem tempor, rutrum est eget, auctor mi. Maecenas pharetra euismod commodo. Duis lacinia semper mi non interdum. Cras accumsan laoreet libero sit amet malesuada. Integer rhoncus quam id nulla facilisis, a pharetra sem sagittis. Sed sit amet efficitur velit, eu volutpat velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus in blandit ante. Proin rutrum volutpat sem at tempor. Sed porta volutpat ornare. Etiam eget sodales velit, vitae imperdiet mauris. Vestibulum vestibulum orci nec nulla molestie molestie. Cras non dapibus lacus. Integer consequat lectus eget pharetra facilisis. Morbi dapibus consequat sodales.
+				</p>
+					</section>
+</main></div></header></body></html>
